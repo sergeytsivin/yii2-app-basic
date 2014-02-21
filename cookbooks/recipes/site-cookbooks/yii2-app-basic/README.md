@@ -1,5 +1,5 @@
-mytest Cookbook
-===============
+Yii2-app-basic Cookbook
+=======================
 TODO: Enter the cookbook description here.
 
 e.g.
